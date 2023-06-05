@@ -1,4 +1,10 @@
-# NativeCord
+# Deprecated.
+
+New feature in macOS 14 lets you do this properly. Go to Safari, open
+discord.com/app, and select "Add to Dock". (Literally updating as WWDC is
+happening)
+
+## NativeCord
 
 SSB (site-specific browser) for Discord. In other words, all it does is load
 Discord as a website... in an app.
